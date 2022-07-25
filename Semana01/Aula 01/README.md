@@ -163,10 +163,10 @@ Saiba mais sobre o git na sua [documentação oficial](https://git-scm.com/book/
         $ git restore --staged <nome_arquvivo>
       ```
 * Ver histórico de modificações:
-    ```
+    ```console
       $ git log
     ```
 * Navegar para uma determinada versão
-    ```
+    ```console
       $ git checkout <identificador_versao>
     ```
