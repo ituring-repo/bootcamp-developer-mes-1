@@ -2,7 +2,6 @@
 
 ## 🎯 Objetivos:
 * Aprender usar o Github em um fluxo de trabalho local + remoto;
-* Ser capaz de criar pull request para entrega de exercícios; e
 * Dar os primeiros passos no JavaScript.
 ___
 
@@ -21,17 +20,13 @@ O GitHub é como uma rede social de pessoas programadoras, focada em compartilha
 
 #### Como transformar um repositório local em remoto ?
   - Conectando o repositório local a um remoto (Demonstração)
+  - Clonando um repositório remoto (o jeito mais fácil)
 
 #### Fluxo de trabalho local + remoto
   - Ciclo de vida: local + remoto
   - Atualizando um repositório remoto com base no local
   - Modificando um repositório remoto (no Github)
   - Atualizando um repositório local com base no remoto
-
-#### Iniciando a colaboração - Clone, Fork e Pull request
-  - Criando um repositório no Github
-  - Clonando repositórios remotos ( o jeito mais fácil)
-  - Pull request
 
 <div id='variaveis'/>
 
